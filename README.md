@@ -7,3 +7,5 @@ Pasos para subir al GIthub
 **git checkout -- .** reconstruye el ultimo commit
 
 **Luego de esto vienen los comandos del propio github pra subir a la nube**
+
+Mensajito de confirmacion
